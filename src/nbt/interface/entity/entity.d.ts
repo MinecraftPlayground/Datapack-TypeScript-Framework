@@ -1,7 +1,7 @@
 import { Motion } from '../../type/motion.js';
 
 /**
- * 
+ * Generic entity NBT data
  * 
  * @interface
  */
